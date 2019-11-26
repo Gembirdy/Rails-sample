@@ -1,7 +1,7 @@
 class ApplicationController < ActionController::Base
 
-  def hello
-    render plain: "¡Hola, mundo!"
-  end
+#   def hello
+#     render plain: "¡Hola, mundo!"
+#   end
 
 end
